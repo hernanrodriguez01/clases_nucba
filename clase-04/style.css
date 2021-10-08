@@ -1,0 +1,28 @@
+body{
+    background-color:powderblue;
+}
+h1{
+    font-size: 100px;
+    color: purple;
+    background-color: lightgrey;
+    text-align: center;
+}
+.tomate{
+    background-color: tomato;
+}
+
+.naranja{
+    background-color: orange;
+}
+.azul{
+    background-color: blue;
+}
+.gris{
+    background-color: gray;
+}
+.violeta{
+    background-color: violet;
+}
+.dorado{
+  background-color: gold;
+}
