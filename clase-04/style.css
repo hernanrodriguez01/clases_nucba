@@ -9,20 +9,38 @@ h1{
 }
 .tomate{
     background-color: tomato;
+    color: white;
 }
 
 .naranja{
     background-color: orange;
+    color:white ;
 }
 .azul{
     background-color: blue;
+    color: white;
 }
 .gris{
     background-color: gray;
+    color: white;
 }
 .violeta{
     background-color: violet;
+    color: white;
 }
 .dorado{
   background-color: gold;
+  color: white;
+}
+.verde{
+    background-color: green;
+    color: white;
+}
+h3{
+    background-color: pink;
+    color: white;
+    text-align: center;
+}
+h3{
+    color: skyblue;
 }
